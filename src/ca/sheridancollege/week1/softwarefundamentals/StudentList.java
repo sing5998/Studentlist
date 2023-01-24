@@ -12,6 +12,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * @author dancye, Jan 2019
  */
 //I made this change Online
+//This is the second online change on 5:05 pn tuesday Jan 23
 public class StudentList {
     
     public static void main(String[] args)
